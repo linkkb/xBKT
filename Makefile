@@ -10,7 +10,7 @@ ifndef MATLABPATH
 		MATLABPATH=/Applications/MATLAB_R2013a.app
 	endif
 	ifeq ($(UNAME),Linux)
-		MATLABPATH=/usr/local/MATLAB/R2014a
+		MATLABPATH=/usr/local/MATLAB/R2014b
 	endif
 endif
 

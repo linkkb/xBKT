@@ -19,7 +19,7 @@ ifndef EIGENPATH
 		EIGENPATH=/usr/local/include
 	endif
 	ifeq ($(UNAME),Linux)
-		EIGENPATH=/home/linkkb/eigen
+		EIGENPATH=/usr/include/eigen3
 	endif
 endif
 
